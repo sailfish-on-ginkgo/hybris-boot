@@ -1911,7 +1911,6 @@ case "$DEVICE" in
             "$@"
         ;;
 
-<<<<<<< HEAD
     "ginkgo")
         sed -i \
             -e 's block/bootdevice/by-name/abl mmcblk0p33 ' \
